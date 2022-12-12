@@ -1,0 +1,5 @@
+principle
+theory_arabic
+colloquial
+distr_learn
+resource

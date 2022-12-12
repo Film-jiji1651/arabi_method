@@ -1,0 +1,21 @@
+---
+bibliography: references.bib
+---
+
+# 付録C: どのようにこれを書いたか {#appendix_c .unnumbered}
+
+このサイトは、`RStudio`と`bookdown`パッケージを使用して書いた。
+
+## 執筆環境 {#env -}
+
+```{r}
+sessionInfo()
+```
+
+## 参考文献 {#ref .unnumbered}
+
+-   Desirée De Leon and Alison Hill, [*rstudio4edu*](https://rstudio4edu.github.io/rstudio4edu-book/), 2019.
+-   Yihui Xie, Christophe Dervieux and Emily Riederer, [*R Markdown Cookbook*](https://bookdown.org/yihui/rmarkdown-cookbook/), 2022. (日本語訳:『[R Markdown クックブック](https://gedevan-aleksizde.github.io/rmarkdown-cookbook/)』)
+-   Yihui Xie, [*bookdown: Authoring Books and Technical Documents with R Markdown*](https://bookdown.org/yihui/bookdown/), 2022.
+-   宋財泫、矢内勇生『[私たちのR: ベストプラクティスの探究](https://www.jaysong.net/RBook/)』2022 年。
+-   松村優哉他、『改定2版 Rユーザーのための RStudio[実践]入門: tidyverseによるモダンな分析フローの世界』技術評論社、2021 年。

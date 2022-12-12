@@ -1,0 +1,11 @@
+# (PART) 実践編 [WIP] {-}
+
+# 学習素材情報 {#resource}
+
+ここに参考となる学習素材を紹介し、それに関するコメントを書いていく。 タイトルをリンクにしているため、クリックすれば出版社（一部はECサイト）のWebサイトに飛ぶ。
+
+1.  【文法&問題】[竹田敏之『アラビア語表現とことこトレーニング』白水社、2018年。](https://www.hakusuisha.co.jp/book/b348647.html) 特徴は文法解説と問題が見開きで構成されていて、解説を見ながら問題に取り組み事ができる。つまり楽。
+2.  【単語集】[鷲見朗子編『例文で学ぶアラビア語単語集』大修館書店、2019年。](（)<https://www.taishukan.co.jp/book/b471933.html>) 分野ごと（例えば、学校やレストランなどの場所や経済・ITなどの概念など）にイラストを交えて単語が載せられているため、調べ物をするときに便利。
+3.  【文法&会話集】[Smart, Jack and Frances Altorfer, _Complete Spoken Arabic of the Gulf_, Teach Yourself, 2010.](https://www.bookdepository.com/Complete-Spoken-Arabic-Arabian-Gulf-Beginner-Intermediate-Course-Frances-Smart/9781444105469?ref=grid-view&qid=1669905445206&sr=1-1) 湾岸方言のテキスト。
+4.  【会話集&単語集】Fazza, Hany, _Qatari Phrasebook_, V. 1.0.4, Georgetown University in Qatar, Android and iOS, 2015. 湾岸・カタール方言のフレーズを集めたアプリケーション。ジョージタウン大学カタール分校が開発したもので、無料で利用できる。AndoroidとiOSどちらでも利用可能。音声の再生も可能でかなり利便性が高い。
+5.  a

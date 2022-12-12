@@ -1,0 +1,15 @@
+# (PART) 理論編 [WIP] {-}
+
+# アラビア語 {#theory_arabic}
+
+## 口語（アーンミーヤ,العامية）について{#colloquial}
+
+ご存知の通り（ご存知でない方は新たなことを知る機会です）、アラビア語は、
+
+- 標準語 フスハー（Ar: الفصحى, En: Modern Standard Arabic, MSA）
+- 口語 アーンミーヤ（En: Spoken Arabic, Colloquial Arabic）
+
+の2つの種類がある。
+
+
+# 分散学習 {#distr_learn}
