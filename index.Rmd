@@ -15,6 +15,11 @@ github-repo: Film-jiji1651/arabi_method
 
 # はじめに {#index .unnumbered}
 
+::::::{.infobox .caution data-latex="{caution}"}
+**注意**  
+この文書はまだ開発段階です。完成まで不完全な状態で公開されています。
+::::::
+
 <div style="text-align: center; font-size:xx-large">
 <font face="Aref Ruqaa">
     بسم الله الرحمن الرحيم

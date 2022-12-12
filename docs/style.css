@@ -1,5 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Aref+Ruqaa&family=Noto+Sans+Arabic&family=Noto+Sans+JP:wght@400;700&display=swap");
-
+.infobox {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  background: lightgray 5px center/3em no-repeat;
+  border: 2px solid orange;
+  border-radius: 10px;
+}
+.caution {
+  background-image: url("./img/caution.png");
+}
 .book.font-family-1 {
   font-family: "Noto Sans Japanese", "Noto Sans Arabic", sans-serif;
 }
