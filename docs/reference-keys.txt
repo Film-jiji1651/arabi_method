@@ -3,3 +3,10 @@ theory_arabic
 colloquial
 distr_learn
 resource
+文法問題アラビア語表現とことこトレーニング
+単語集例文で学ぶアラビア語単語集
+文法会話集complete-spoken-arabic-of-the-gulf
+アプリケーションqatari-phrasebook
+webサイトal-jazeera-learning-arabic-تعلم-العربية
+appendix_a
+appendix_b

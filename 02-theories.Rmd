@@ -1,8 +1,8 @@
-# (PART) 理論編 [WIP] {-}
+# (PART) 理論編 [WIP] {.unnumbered}
 
 # アラビア語 {#theory_arabic}
 
-## 口語（アーンミーヤ,العامية）について{#colloquial}
+## 口語（アーンミーヤ,العامية）について {#colloquial}
 
 ご存知の通り（ご存知でない方は新たなことを知る機会です）、アラビア語は、
 
@@ -11,5 +11,6 @@
 
 の2つの種類がある。
 
+![dialects](img/arab_dialects.webp)
 
-# 分散学習 {#distr_learn}
+# 分散学習: 暗記の科学 {#distr_learn}

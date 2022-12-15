@@ -10,14 +10,14 @@ bibliography: [book.bib, packages.bib]
 description: |
   This is a project to write a book to share how I aquired Arabic language.
 link-citations: yes
-github-repo: Film-jiji1651/arabi_method
+github-repo: https://github.com/Film-jiji1651/arabi_method
 ---
 
 # はじめに {#index .unnumbered}
 
 ::::::{.infobox .caution data-latex="{caution}"}
 **注意**  
-この文書はまだ開発段階です。完成まで不完全な状態で公開されています。
+この文書はまだ開発段階（α版）です。完成まで不完全な状態で公開されています。
 ::::::
 
 <div style="text-align: center; font-size:xx-large">
@@ -26,7 +26,7 @@ github-repo: Film-jiji1651/arabi_method
 </font>
 </div>
 
-はじめまして、持田です[^index-1]。はじめましてじゃない人は、「あぁ、こいつか」とでも思っていただければよいかと。この文書は、私がカタール派遣に向けて何をしたか、また派遣中にどのように勉強していたかを記したものです。また、具体的な参考文献や Web サイトについても紹介するので、「学習法なんぞどうでもいい」という人も、そこだけは参考になると思います。
+はじめまして、持田です[^index-1]。はじめましてじゃない人は、「あぁ、こいつか」とでも思っていただければよいかと。この文書は、私がカタール派遣に向けて何をしたか、また派遣中にどのように勉強していたかを記したものです。また、[具体的な参考文献や Web サイトについても紹介](#resource)するので、「学習法なんぞどうでもいい」という人も、そこだけは参考になると思います。
 
 [^index-1]: 「お前さん、何者だ」と思われた方は[自己紹介](#author)へ
 

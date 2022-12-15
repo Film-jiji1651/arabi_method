@@ -1,18 +1,19 @@
----
-bibliography: references.bib
----
 
-# 付録C: どのようにこれを書いたか {#appendix_c .unnumbered}
+# 執筆環境 {#environment -}
 
-このサイトは、`RStudio`と`bookdown`パッケージを使用して書いた。
-
-## 執筆環境 {#env -}
+このサイトは、`RMarkdown`で`RStudio`と`bookdown`パッケージを使用して書いた。
 
 ```{r}
 sessionInfo()
 ```
 
-## 参考文献 {#ref .unnumbered}
+`R`は、オープンソースで開発されている統計分析のためのプログラミング言語と環境で、WindowsやLinux、Mac OSで利用可能である。
+
+`Rmakrdown`は、`R`の下で動く軽量マークアップ言語の1つで、Markdwonから派生したものである。`Rmarkdown`は、HTMLからPDF、Docxなどあらゆる種類のドキュメントファイルを生成可能であり、これさえあればWordもPowerPointも必要とせず、文書の作成ができる。しかも無料。**つまり最強ってこと。**
+
+**Rはいいぞ～**
+
+## 参考文献 {#ref_rmd .unnumbered}
 
 -   Desirée De Leon and Alison Hill, [*rstudio4edu*](https://rstudio4edu.github.io/rstudio4edu-book/), 2019.
 -   Yihui Xie, Christophe Dervieux and Emily Riederer, [*R Markdown Cookbook*](https://bookdown.org/yihui/rmarkdown-cookbook/), 2022. (日本語訳:『[R Markdown クックブック](https://gedevan-aleksizde.github.io/rmarkdown-cookbook/)』)

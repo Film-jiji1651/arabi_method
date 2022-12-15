@@ -1,30 +1,37 @@
-# 付録B: アラブ音楽の世界 [WIP] {#appendix_b .unnumbered}
+# アラブ音楽の世界 [WIP] {#appendix_b}
 
 当付録は、個人的に好きなアラブ音楽の世界へ招待しようという試みの下で書かれたものである。\
 かなり、個人の趣味[^appendix_b_music-1]が反映されているため、「こんなのあるんだなー」程度に思っていただければ幸いである。
 
 [^appendix_b_music-1]: ちなみに持田の大好物は、伝統音楽と電子音楽の融合である。
 
-これを読んで興味を持ったならば、音楽評論家の[サラーム海上](https://www.chez-salam.com)氏のWebサイトへ訪問すると、良い発見があるだろう。彼のJ-WAVEラジオ番組「[Oriental Music Show](https://www.j-wave.co.jp/original/dc3/)」を聞けば、たちまちワールドミュージックの世界に引き込まれるだろう。
+これを読んで興味を持ったならば、音楽評論家の[サラーム海上](https://www.chez-salam.com)氏の Web サイトへ訪問すると、良い発見があるだろう。彼の J-WAVE ラジオ番組「[Oriental Music Show](https://www.j-wave.co.jp/original/dc3/)」を聞けば、たちまちワールドミュージックの世界に引き込まれるだろう。
 
 ## A-WA {-}
+
 ::: movie-wrap
+
 <iframe width="1294" height="589" src="https://www.youtube.com/embed/g3bjZlmsb4A" title='A-WA - "Habib Galbi" (Official Video)' frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 :::
 A-WAは、イエメン系イスラエル人姉妹のトリオで、「Habib Galbi」は上で紹介した「Oriental Music Show」のオープニング曲となっている。
 
 ## Zenobia زنوبيا {-}
+
 ::: movie-wrap
+
 <iframe width="1294" height="589" src="https://www.youtube.com/embed/HntKovGJqwY" title="Zenobia - Halak Halak | زنوبيا - هلك هلك" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 :::
 
-Zenobiaはパレスチナのダンス・ミュージック・デュオだ。
-彼らは、レヴァント地方の伝統舞踊音楽である「ダブケ」をシンセサイザーを用いたテクノ音楽に仕立て上げている。上の曲「Halak Halak」では、シンセで中東の伝統楽器「ミジュウィズ」の音を再現している。あまりにも好きすぎるので、**CDを買った**。
+Zenobia はパレスチナのダンス・ミュージック・デュオ
+
+彼らは、レヴァント地方の伝統舞踊音楽である「ダブケ」をシンセサイザーを用いたテクノ音楽に仕立て上げている。上の曲「Halak Halak」では、シンセで中東の伝統楽器「ミジュウィズ」の音を再現している。あまりにも好きすぎるので、**CD を買った**。
 
 ## Rahim AlHaj رحيم الحاج {-}
+
 ::: movie-wrap
+
 <iframe width="1294" height="589" src="https://www.youtube.com/embed/i4lFirLBqL4?list=OLAK5uy_lDO5AUv4_Kx0UIQ-Z30RrN7nNQBT07bWA" title='Rahim AlHaj -"Eastern Love" [Studio Session]' frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 :::
@@ -32,6 +39,7 @@ Zenobiaはパレスチナのダンス・ミュージック・デュオだ。
 ## Naseer Shamma نصير شمة {-}
 
 ::: movie-wrap
+
 <iframe width="1294" height="589" src="https://www.youtube.com/embed/TZuTS6AIeK8" title="Cities of Daffodils مدن النرجس | Naseer Shamma" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 :::

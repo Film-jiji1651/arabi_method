@@ -1,11 +1,41 @@
-# (PART) 実践編 [WIP] {-}
+# (PART) 実践編 [WIP] {.unnumbered}
 
 # 学習素材情報 {#resource}
 
 ここに参考となる学習素材を紹介し、それに関するコメントを書いていく。 タイトルをリンクにしているため、クリックすれば出版社（一部はECサイト）のWebサイトに飛ぶ。
 
-1.  【文法&問題】[竹田敏之『アラビア語表現とことこトレーニング』白水社、2018年。](https://www.hakusuisha.co.jp/book/b348647.html) 特徴は文法解説と問題が見開きで構成されていて、解説を見ながら問題に取り組み事ができる。つまり楽。
-2.  【単語集】[鷲見朗子編『例文で学ぶアラビア語単語集』大修館書店、2019年。](（)<https://www.taishukan.co.jp/book/b471933.html>) 分野ごと（例えば、学校やレストランなどの場所や経済・ITなどの概念など）にイラストを交えて単語が載せられているため、調べ物をするときに便利。
-3.  【文法&会話集】[Smart, Jack and Frances Altorfer, _Complete Spoken Arabic of the Gulf_, Teach Yourself, 2010.](https://www.bookdepository.com/Complete-Spoken-Arabic-Arabian-Gulf-Beginner-Intermediate-Course-Frances-Smart/9781444105469?ref=grid-view&qid=1669905445206&sr=1-1) 湾岸方言のテキスト。
-4.  【会話集&単語集】Fazza, Hany, _Qatari Phrasebook_, V. 1.0.4, Georgetown University in Qatar, Android and iOS, 2015. 湾岸・カタール方言のフレーズを集めたアプリケーション。ジョージタウン大学カタール分校が開発したもので、無料で利用できる。AndoroidとiOSどちらでも利用可能。音声の再生も可能でかなり利便性が高い。
-5.  a
+## 【文法&問題】『[アラビア語表現とことこトレーニング](https://www.hakusuisha.co.jp/book/b348647.html)』
+
+書誌情報: 竹田敏之『[アラビア語表現とことこトレーニング](https://www.hakusuisha.co.jp/book/b348647.html)』白水社、2018年。
+
+特徴は文法解説と問題が見開きで構成されていて、解説を見ながら問題に取り組み事ができる。つまり楽。
+
+## 【単語集】『[例文で学ぶアラビア語単語集](https://www.taishukan.co.jp/book/b471933.html)』
+
+書誌情報: 鷲見朗子編『[例文で学ぶアラビア語単語集](https://www.taishukan.co.jp/book/b471933.html)』大修館書店、2019年。
+
+分野ごと（例えば、学校やレストランなどの場所や経済・ITなどの概念など）にイラストを交えて単語が載せられているため、調べ物をするときに便利。
+
+## 【文法&会話集】[*Complete Spoken Arabic of the Gulf*](https://www.bookdepository.com/Complete-Spoken-Arabic-Arabian-Gulf-Beginner-Intermediate-Course-Frances-Smart/9781444105469?ref=grid-view&qid=1669905445206&sr=1-1)
+
+書誌情報: Smart, Jack and Frances Altorfer, [*Complete Spoken Arabic of the Gulf*](https://www.bookdepository.com/Complete-Spoken-Arabic-Arabian-Gulf-Beginner-Intermediate-Course-Frances-Smart/9781444105469?ref=grid-view&qid=1669905445206&sr=1-1), Teach Yourself, 2010.
+
+湾岸方言のテキスト。
+
+## 【アプリケーション】*Qatari Phrasebook*
+
+ダウンロードは以下のバッジから
+
+<a href="https://play.google.com/store/apps/details?id=com.qatariphrasebook.android&amp;hl=ja&amp;gl=US&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"> <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="170"/> </a> <a href="https://apps.apple.com/us/app/qatari-phrasebook/id1147644705?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 150px; height: 83px;"> <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1502323200?h=2cb05ca2befc69e3e48c1a084acbd7fc" alt="Download on the App Store" style="margin-top: 24px;width: 150px;"/> </a>
+
+Fazza, Hany, *Qatari Phrasebook*, V. 1.0.4, Georgetown University in Qatar, Android and iOS, 2015.
+
+湾岸・カタール方言のフレーズを集めたアプリケーション。ジョージタウン大学カタール分校が開発したもので、無料で利用できる。AndoroidとiOSどちらでも利用可能。音声の再生も可能でかなり利便性が高い。
+
+## 【Webサイト】[*Al-Jazeera Learning Arabic/ تعلم العربية*](https://learning.aljazeera.net/en)
+
+Al-Jazeera Media Institute, [*Al-Jazeera Learning Arabic/ تعلم العربية*](https://learning.aljazeera.net/en).
+
+カタールを拠点にしている国際メディアAl-Jazeeraが運営しているアラビア語学習サイト。流石に、類似している英語学習サイトのBBC [*Learning English*](https://www.bbc.co.uk/learningenglish/)と比較すると歴史も浅く、コンテンツの種類や豊富さに敵わないが、アラビア語学習には嬉しい機能が多い。例えば、**本文のシャックルをオン・オフ**にできたり、**動画が付属**しているものがあるなど便利である。
+
+恐らく、動画については過去にAl-Jazeeraで放送したものの抜粋となっていると思われる。実際のテレビ放送を見るわけであるから実践的と言えるかもしれない。ただし、音声の速度が速いため、少し大変。Intermediate（中級）のコンテンツが最も充実している。
