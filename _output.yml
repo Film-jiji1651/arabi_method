@@ -7,7 +7,7 @@ bookdown::gitbook:
         <li><a href="./">モダンなアラビア語学習法</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/Film-jiji1651/arabi_method%s
+    edit: https://github.com/Film-jiji1651/arabi_method/%s
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

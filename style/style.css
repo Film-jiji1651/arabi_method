@@ -7,7 +7,7 @@
   border-radius: 10px;
 }
 .caution {
-  background-image: url("./img/caution.png");
+  background-image: url("../img/caution.png");
 }
 .book.font-family-1 {
   font-family: "Noto Sans Japanese", "Noto Sans Arabic", sans-serif;

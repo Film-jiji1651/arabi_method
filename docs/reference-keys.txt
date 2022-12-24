@@ -1,6 +1,8 @@
 principle
 theory_arabic
-colloquial
+coll_n_msn
+msn
+coll
 distr_learn
 resource
 文法問題アラビア語表現とことこトレーニング
@@ -10,3 +12,4 @@ resource
 webサイトal-jazeera-learning-arabic-تعلم-العربية
 appendix_a
 appendix_b
+url-your-book-url-like-httpsbookdown.orgyihuibookdown

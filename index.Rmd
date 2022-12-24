@@ -4,7 +4,7 @@ author: "持田 慧"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography: [references.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
@@ -22,7 +22,7 @@ github-repo: https://github.com/Film-jiji1651/arabi_method
 
 <div style="text-align: center; font-size:xx-large">
 <font face="Aref Ruqaa">
-    بسم الله الرحمن الرحيم
+    بسم اللّٰه الرحمن الرحيم
 </font>
 </div>
 
