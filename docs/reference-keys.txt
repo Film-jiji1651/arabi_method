@@ -12,4 +12,3 @@ resource
 webサイトal-jazeera-learning-arabic-تعلم-العربية
 appendix_a
 appendix_b
-url-your-book-url-like-httpsbookdown.orgyihuibookdown
